@@ -1,0 +1,27 @@
+[ 2023-07-26 14:53:39,933 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-26 14:53:39,938 ] 187 werkzeug - INFO -  * Debugger PIN: 249-942-172
+[ 2023-07-26 14:53:40,511 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:53:40] "GET / HTTP/1.1" 200 -
+[ 2023-07-26 14:53:42,744 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:53:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-07-26 14:53:48,803 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:53:48] "[33mGET /predict HTTP/1.1[0m" 404 -
+[ 2023-07-26 14:53:49,016 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:53:49] "[33mGET /predict HTTP/1.1[0m" 404 -
+[ 2023-07-26 14:54:14,240 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:54:14] "GET /upload HTTP/1.1" 200 -
+[ 2023-07-26 14:54:14,266 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:54:14] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[ 2023-07-26 14:54:14,349 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:54:14] "GET /static/css/style.css HTTP/1.1" 200 -
+[ 2023-07-26 14:54:17,286 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:54:17] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[ 2023-07-26 14:54:17,335 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:54:17] "GET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-07-26 14:54:17,364 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:54:17] "GET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-07-26 14:54:17,458 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:54:17] "GET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-07-26 14:54:17,478 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:54:17] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-26 14:57:17,952 ] 45 root - INFO - Exception occured in load_object function utils
+[ 2023-07-26 14:57:17,977 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:57:17] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[ 2023-07-26 14:57:17,996 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:57:17] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-07-26 14:57:18,007 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:57:18] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-07-26 14:57:18,036 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:57:18] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-26 14:57:18,076 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:57:18] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-26 14:58:43,505 ] 45 root - INFO - Exception occured in load_object function utils
+[ 2023-07-26 14:58:43,529 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:58:43] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[ 2023-07-26 14:58:43,556 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:58:43] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-07-26 14:58:43,560 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:58:43] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-07-26 14:58:43,588 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:58:43] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-26 14:58:43,613 ] 187 werkzeug - INFO - 127.0.0.1 - - [26/Jul/2023 14:58:43] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-26 15:01:32,069 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\My Data Science\\PW Skills\\course\\Projects\\sensor-fault-detection2\\src\\pipelines\\prediction_pipeline.py', reloading

@@ -1,0 +1,7 @@
+[ 2023-07-26 13:35:56,526 ] 37 root - INFO - Entered initiate_data_ingestion method of DataIngestion class
+[ 2023-07-26 13:36:00,041 ] 97 root - INFO - Ingested data from mongodb to artifacts\data.csv
+[ 2023-07-26 13:36:00,041 ] 102 root - INFO - Exited initiate_data_ingestion method of DataIngestion class
+[ 2023-07-26 13:36:01,403 ] 64 root - INFO - Splitting training and testing input and target feature
+[ 2023-07-26 13:36:01,403 ] 85 root - INFO - Extracting model config file path
+[ 2023-07-26 13:36:09,548 ] 105 root - INFO - Best found model on both training and testing dataset
+[ 2023-07-26 13:36:09,641 ] 117 root - INFO - Saving model at path: artifacts\model.pkl

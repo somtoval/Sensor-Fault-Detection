@@ -1,0 +1,4 @@
+venv/
+Sensor_Fault_Detection.egg-info/
+dist/
+build/

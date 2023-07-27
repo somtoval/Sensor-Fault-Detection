@@ -1,0 +1,9 @@
+[ 2023-07-26 14:50:59,167 ] 37 root - INFO - Entered initiate_data_ingestion method of DataIngestion class
+[ 2023-07-26 14:51:00,827 ] 97 root - INFO - Ingested data from mongodb to artifacts\data.csv
+[ 2023-07-26 14:51:00,827 ] 102 root - INFO - Exited initiate_data_ingestion method of DataIngestion class
+[ 2023-07-26 14:51:01,101 ] 64 root - INFO - Splitting training and testing input and target feature
+[ 2023-07-26 14:51:01,102 ] 85 root - INFO - Extracting model config file path
+[ 2023-07-26 14:51:07,382 ] 93 root - INFO - Model Report : {'Random Forest': 1.0, 'Decision Tree': 0.9, 'Gradient Boosting': 0.9333333333333333, 'K-Neighbors Classifier': 0.6666666666666666, 'XGBClassifier': 1.0, 'AdaBoost Classifier': 1.0}
+[ 2023-07-26 14:51:07,391 ] 107 root - INFO - Best Model Found , Model Name : Random Forest , R2 Score : 1.0
+[ 2023-07-26 14:51:07,392 ] 114 root - INFO - Best found model on both training and testing dataset
+[ 2023-07-26 14:51:07,402 ] 126 root - INFO - Saving model at path: artifacts\model.pkl

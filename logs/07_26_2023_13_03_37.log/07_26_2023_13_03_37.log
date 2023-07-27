@@ -1,0 +1,3 @@
+[ 2023-07-26 13:03:37,901 ] 37 root - INFO - Entered initiate_data_ingestion method of DataIngestion class
+[ 2023-07-26 13:03:40,372 ] 97 root - INFO - Ingested data from mongodb to artifacts\data.csv
+[ 2023-07-26 13:03:40,373 ] 102 root - INFO - Exited initiate_data_ingestion method of DataIngestion class
